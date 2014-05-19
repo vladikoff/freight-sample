@@ -1,0 +1,13 @@
+{
+  "name": "freight-sample",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "2"
+  },
+  "devDependencies": {
+    "rimraf": "1.x"
+  },
+  "license": "MIT"
+}

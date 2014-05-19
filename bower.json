@@ -1,0 +1,19 @@
+{
+  "name": "freight-sample",
+  "version": "0.1.0",
+  "authors": [
+    "vladikoff <vlad.filippov@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.6.0"
+  }
+}
